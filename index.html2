@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>BetterDaily Pinterest Planner</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 700px;
+      margin: 40px auto;
+      padding: 20px;
+      line-height: 1.6;
+      color: #333;
+    }
+    h1 {
+      color: #0073e6;
+    }
+    a {
+      color: #0073e6;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #666;
+      border-top: 1px solid #ddd;
+      padding-top: 20px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>BetterDaily Pinterest Planner</h1>
+  <p><strong>BetterDaily</strong> helps Pinterest creators discover trending product content, customize pin titles and descriptions, and schedule posts to keep their boards active and engaging — always with manual approval before posting.</p>
+  <p>Our goal is to save creators time, boost engagement, and make it easy to keep profiles fresh — while ensuring users stay fully in control of what’s posted to their boards.</p>
+  <p><a href="privacy.html">Read our Privacy Policy</a></p>
+  <footer>&copy; 2025 BetterDaily</footer>
+</body>
+</html>
+Add index.html for landing page
